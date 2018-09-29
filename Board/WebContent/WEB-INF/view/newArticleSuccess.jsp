@@ -6,7 +6,7 @@
 <title>게시글 등록</title>
 </head>
 <body>
-게시글 등록 했습니다.
+게시글 등록 했습니다~~~
 <br>
 ${ctxPath = pageContext.request.contextPath ; '' }
 <a href="${ctxPath }/article/list">[게시글 목록 보기]</a>
